@@ -1,0 +1,21 @@
+﻿body 
+{
+	background-color: pink;
+}
+.CheckoutFrame
+{
+    position:absolute;
+    height:335px; 
+    width: 380px; 
+    border: solid 1px #002594;
+}
+.Buttons
+{
+    position: absolute;
+    height: 25px;
+	font-family: Arial, Helvetica;
+    font-size: 10pt;
+    background-color:lavender;
+    color: #002594;
+    border: solid 1px #002594;
+}

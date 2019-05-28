@@ -1,0 +1,12 @@
+2018-08-17 2:23:25 PM PayForOrder Starting Sales Transaction
+2018-08-17 2:23:26 PM PayForOrder Sales Transaction Completed for Customer 1
+2018-08-17 2:41:20 PM PayForOrder Starting Sales Transaction
+2018-08-17 2:41:21 PM PayForOrder Sales Transaction Completed for Customer 1
+2018-08-17 2:41:30 PM PayForOrder Starting Sales Transaction
+2018-08-17 2:41:30 PM PayForOrder Sales Transaction Completed for Customer 1
+2018-08-17 2:46:29 PM PayForOrder Starting Sales Transaction
+2018-08-17 2:46:29 PM PayForOrder Sales Transaction Completed for Customer 2
+2018-08-17 2:46:32 PM PayForOrder Starting Sales Transaction
+2018-08-17 2:46:32 PM PayForOrder Sales Transaction Completed for Customer 2
+2018-08-17 2:46:34 PM PayForOrder Starting Sales Transaction
+2018-08-17 2:46:34 PM PayForOrder Sales Transaction Completed for Customer 2

@@ -1,0 +1,2 @@
+2018-07-31 5:29:20 PM PayForOrder Starting Sales Transaction
+2018-07-31 5:29:20 PM PayForOrder Sales Transaction Completed for Customer 2

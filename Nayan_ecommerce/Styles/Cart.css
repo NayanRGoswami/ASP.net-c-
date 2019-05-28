@@ -1,0 +1,40 @@
+﻿body 
+{
+	background-color: #BFC9DC;
+}
+.LabelTotal
+{
+	position: absolute;
+    border: solid 1px #002594;
+    background-color: white;
+	font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    text-align: right;
+    width: 80px;
+    left: 626px;
+}
+.TextBoxes
+{
+	position: absolute;
+	border: solid 1px #002594;
+    height: 20px;
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    text-align: left;
+}
+.Buttons
+{
+    height: 25px;
+	font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+}
+.CellStyle
+{
+    font-family: Arial, Helvetica;
+    font-size: 11pt;
+    color: #002594;
+    text-align: left;
+}

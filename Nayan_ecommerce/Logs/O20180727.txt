@@ -1,0 +1,34 @@
+2018-07-27 4:06:43 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:06:43 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:08:33 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:08:34 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:10:12 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:10:12 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:10:19 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:10:19 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:12:27 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:12:27 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:12:28 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:12:29 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:12:29 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:12:29 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:12:29 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:12:29 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:12:29 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:12:29 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:12:29 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:12:29 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:12:29 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:12:29 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:12:29 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:12:30 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:12:30 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:12:30 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:27:39 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:27:40 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:40:16 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:40:16 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:40:22 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:40:22 PM PayForOrder Sales Transaction Completed for Customer 0
+2018-07-27 4:59:01 PM PayForOrder Starting Sales Transaction
+2018-07-27 4:59:01 PM PayForOrder Sales Transaction Completed for Customer 1
